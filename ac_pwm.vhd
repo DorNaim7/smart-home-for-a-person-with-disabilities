@@ -46,3 +46,4 @@ seven_seg <= "0111111" when "00", -- 0
 			"1001111" when "11"; -- 3
 
 end behave;
+![](images/ac_pwm_waveform.jpg)					
